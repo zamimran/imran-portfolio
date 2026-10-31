@@ -81,7 +81,7 @@ function App() {
             <div className="orbit orbit-a"/><div className="orbit orbit-b"/>
             <div className="profile-card">
               <div className="card-top"><span>PROFILE / 001</span><span className="card-live">● AVAILABLE</span></div>
-              <div className="avatar">MI<span>_</span></div>
+              <div className="avatar"><img src="/profile.jpeg" alt="Md Imran" /></div>
               <div className="profile-card-name">Md Imran</div>
               <div className="profile-card-role">Graduate Software Engineer</div>
               <div className="card-rule"/>
